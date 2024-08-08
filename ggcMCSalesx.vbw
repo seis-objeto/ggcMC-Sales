@@ -1,0 +1,5 @@
+clsGiveAway = 0, 0, 0, 0, C
+clsSetGiveAway = 0, 0, 0, 0, C
+clsMCSales = 0, 0, 0, 0, C
+frmGiveaway = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmGiveAwayReplace = 0, 0, 0, 0, C, 0, 0, 0, 0, C
